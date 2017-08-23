@@ -1,0 +1,19 @@
+﻿Welcome to ChatScript.Have you been here before?No? How interesting.ChatScript Version 6.91  compiled Dec 23 2016 18:07:54
+
+WARNING SUMMARY: 
+0 serious warnings, 0 function warnings, 2 spelling warnings, 0 case warnings, 0 substitution warnings
+    
+
+Finished compile
+
+Server ChatScript Release Version 6.91 pid: 0 64 bit MACH compiled Dec 23 2016 18:07:54 host=0.0.0.0
+Params:   dict:720895 fact:800000 text:100000kb hash:50000 
+          buffer:30x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67753  fact=130446  stext=1145992 Compiled:Nov19'16-15:54:10 by version 6.9 "0"
+Build1:  dict=167  fact=15  stext=211788 Compiled:Dec23'16-18:23:11 by version 6.91 "Harry"
+Used 53MB: dict 269,298 (21543kb) hashdepth 18/1 fact 216,170 (10376kb) text 14185kb
+           buffer (2400kb) cache (5000kb) POS: 918 (29kb)
+Free 113MB: dict 451,597 hash 922 fact 583,830 text 85,814KB 
+
+    *** Server WIDE OPEN to :command use.
+Did you run away from home when you were little?You should try it some time. Travel broadens the mind.You think I should know?I ran away once, but my parents found me and dragged me back.I don't know but there must be some logic there somewhere.What scared you as a kid?Did you use a nightlite?I was scared of machines. I had vivid dreams of the Terminator robots.Did you have a happy childhood?You agree with me?I don't know what to say.OK. We agree.I don't know what to say.Glad you came back.

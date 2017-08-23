@@ -1,0 +1,4 @@
+docker run -t -d --name chatscript -p 1024:1024 claytantor/chatscript-docker:latest
+./MacChatScript
+./MacChatScript client=localhost:1024
+common.h #undef DISCARDCLIENT

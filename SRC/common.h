@@ -74,13 +74,15 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
 
 #elif __MACH__
 #define DISCARDCOUNTER 1
-#define DISCARDCLIENT 1
+#define DISCARDCLIENT 0
 #define DISCARDPOSTGRES 1
 #define DISCARDMYSQL 1
 //#define DISCARDMONGO 1
 
 #else // GENERIC LINUX
 #endif
+
+#undef DISCARDCLIENT
 
 // These can be used to include LINUX EVSERVER component - this is automatically done by the makefile in src - EV Server does not work under windows
 // #define EVSERVER 1
